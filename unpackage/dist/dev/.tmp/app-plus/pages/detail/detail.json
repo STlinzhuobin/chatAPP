@@ -1,0 +1,20 @@
+{
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "分享",
+        "fontSize": "15",
+        "colorPressed": "white",
+        "fontWeight": "bold",
+        "color": "#1D2124",
+        "float": "right"
+      }
+    ]
+  },
+  "usingComponents": {
+    "divider": "/components/common/divider",
+    "common-list": "/components/common/common-list",
+    "bottom-input": "/components/common/botton-input",
+    "more-share": "/components/common/more-share"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "bounce": "none",
+  "titleNView": {
+    "titleText": "村里唯一的前端",
+    "buttons": [
+      {
+        "color": "#333333",
+        "colorPressed": "#FD597C",
+        "float": "right",
+        "fontSize": "19px",
+        "fontSrc": "/static/font/icon.ttf",
+        "text": ""
+      }
+    ]
+  },
+  "usingComponents": {
+    "user-chat-list": "/components/user-chat/user-chat-list",
+    "botton-input": "/components/common/botton-input"
+  }
+}

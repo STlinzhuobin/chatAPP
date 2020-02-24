@@ -1,0 +1,1 @@
+<view><view class=" flex-1 py-3 px-2"><image style="width:100%;height:400rpx;" src="/static/demo/datapic/46.jpg"></image><view class="flex align-center justify-center text-light-muted">version 1.0.0</view></view><uni-list-item vue-id="1" title="新版本检测" bind:__l="__l"></uni-list-item><uni-list-item vue-id="2" title="社区交友用户协议" bind:__l="__l"></uni-list-item></view>

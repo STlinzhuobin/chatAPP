@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "浏览历史",
+  "titleNView": {
+    "buttons": [
+      {
+        "type": "menu",
+        "float": "right"
+      }
+    ]
+  },
+  "usingComponents": {
+    "no-thing": "/components/common/no-thing",
+    "common-list": "/components/common/common-list"
+  }
+}
